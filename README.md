@@ -1,2 +1,2 @@
-#ALX project Repository
-##Feel free to make requests :)
+# ALX SE projects Repository
+Feel free to make requests :)
